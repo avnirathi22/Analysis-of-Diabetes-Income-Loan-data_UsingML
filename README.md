@@ -1,0 +1,2 @@
+# Analysis-of-Diabetes-Income-Loan-data_UsingML
+Data Mining &amp; Machine Learning Project - It involves a detailed analysis of three datasets -Diabetes, Income of Adults, and Loan Data, utilizing advanced Data Mining and Machine Learning techniques. Five classification models, including KNN, Logistic Regression, Random Forest, SVM and Naive Bayes, have been applied to gain insights and predictions.
